@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202571230475",
+    "project_id": "restau-app-500ac",
+    "storage_bucket": "restau-app-500ac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202571230475:android:f45c52c24fa320e780c60e",
+        "android_client_info": {
+          "package_name": "com.example.restau_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjf1MqcCbMa6Pq-bwU0MQ9nKDSICKiwoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
